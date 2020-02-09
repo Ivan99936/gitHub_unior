@@ -1,5 +1,7 @@
 h1{
 	color:aqua;
+	width: 200px;
+	background: yellow;
 }
 body{
 	background-color: grey;
